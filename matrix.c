@@ -2,9 +2,7 @@
 /*
  * Homework 5 – Pointer Operations
  * CSE 220 – Spring 2026
- *
- * Name:
- * SBU ID:
+ * Matthew Ferine ID: 116961912
  */
 
 #include "matrix.h"
